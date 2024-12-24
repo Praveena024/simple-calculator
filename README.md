@@ -1,4 +1,9 @@
 
+**Praveena C**  
+**Company**: CODETECH IT SOLUTIONS  
+**Id**:CT08DS468  
+**Domain**: JAVA PROGRAMMING 
+**Duration**: 5TH DEC 2024 to 5TH JAN 2025
 
 
 # Simple Calculator in Java
